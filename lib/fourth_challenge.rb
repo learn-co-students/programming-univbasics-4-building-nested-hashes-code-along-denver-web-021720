@@ -21,8 +21,5 @@ def fourth_challenge
       ]
    }
 }
-return epic_tragedy
 
 end
-a=fourth_challenge()
-puts a[:montague][:hero][:status]
